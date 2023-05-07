@@ -1,2 +1,2 @@
-# mylife-Practice
-Practice for Final Exam
+Name: Dcost
+Hometown: California
