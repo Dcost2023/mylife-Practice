@@ -1,2 +1,5 @@
 
-Favorite Beach: Salt Pond
+
+
+Name: Dcost
+Hometown: California
